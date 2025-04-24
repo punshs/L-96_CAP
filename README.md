@@ -5,7 +5,6 @@ This repository contains the Jupyter notebook `elementary_matrices_proof.ipynb`,
 **"Non-uniqueness of stationary measures for stochastic systems with almost surely invariant manifolds"**
 by Jacob Bedrossian, Alex Blumenthal, and Sam Punshon-Smith.
 
-(Link to paper/preprint can be added here if available)
 
 ## Purpose
 
